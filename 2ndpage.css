@@ -1,0 +1,36 @@
+
+  body {    color: rgb(48, 159, 167);
+}
+
+
+.header {
+    padding: 50px;
+    text-align: center;
+    background: #6b466e;
+    color: rgb(101, 213, 221);
+    line-height: 30px;
+    height: 443px;
+    border: 10px solid #e9bdec;
+    text-align: center;
+    height: 424px;
+    margin: 20px;
+    border-radius: 50px;
+  }
+  
+  button {
+    border-radius: 40px;
+    background-color: #6b466e;
+    color: rgb(101, 213, 221);
+    padding: 14px;
+    margin: 8px 0;
+    border-color: #e9bdec;
+  border-style: solid;
+    cursor: pointer;
+    width: 100px;
+    vertical-align: bottom;
+    font-size: 15px
+
+  }
+  
+
+  

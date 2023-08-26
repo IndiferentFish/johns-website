@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  
+  .header {
+    border-radius: 40px;
+    background-color: #6b466e;
+    color: rgb(101, 213, 221);
+  
+
+    border-color: #e9bdec;
+  border-style: solid;
+   
+padding: 190PX;
+  
+    font-size: 15px;
+    text-align: center;
+ 
+
+
+  }
+  
+  
+  /* Increase the font size of the h1 element */
+  .header h1 {
+    font-size: 40px;
+  }
+
+ p {
+  
+    width: 85px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #e9bdec;
+  }
+
+
+  button {
+    border-radius: 40px;
+    background-color: #6b466e;
+    color: rgb(101, 213, 221);
+    padding: 14px;
+    margin: 8px 0;
+    border-color: #e9bdec;
+  border-style: solid;
+    cursor: pointer;
+    width: 100px;
+    vertical-align: bottom;
+    font-size: 15px
+
+  }
+
+  
